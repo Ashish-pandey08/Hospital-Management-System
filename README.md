@@ -17,7 +17,7 @@ Organized Structure Of Hospital_Management_System:
 This project implements a Hospital Management System using MySQL. It includes the database schema, sample data insertion scripts, and an ER diagram.
 
 ## Methodology
-The project utilizes MySQL to create tables for managing employees, patients, doctors, nurses, receptionists, records, rooms, and medicines.
+The project utilizes MySQL to create tables for managing employees, patients, doctors, nurses, receptionists, rooms, records, and medicines.
 
 ## Database Creation
 - Create_tables.sql`: Contains SQL statements to create the necessary tables.
